@@ -34,7 +34,7 @@ example: configs/fer2013_config.json
 }
 
 ```
-
+* \# of NLs: 200 -> 10
 ### 3. run python script
 ```shell
 python main_fer2013.py
